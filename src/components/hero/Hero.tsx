@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="mt-7 flex items-center flex-col  md:flex-row gap-5">
           <button
             className=" px-10 py-2 rounded-full cursor-pointer text-white
-           bg-primary-500 hover:bg-primary-400 font-bold"
+           bg-primary-500 hover:bg-purple-600 font-bold"
           >
             Book Now
           </button>
